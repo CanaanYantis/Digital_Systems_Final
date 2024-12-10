@@ -12,4 +12,15 @@ From this dropdown menu, you are going to want to choose the open tab and choose
 After you edit your audio file and are ready to change it's format, you are going to want to go back to that file tab in the top right and choose "Export Audio" from the list. Once you choose this, a menu will pop up and you will choose "Export to Computer".<br>
 ![](https://github.com/CanaanYantis/Digital_Systems_Final/blob/main/Screenshot%202024-12-09%20192953.png)
 <br>
+<br>
 Once this is complete, this pop up menu will show up:
+<br>
+![](https://github.com/CanaanYantis/Digital_Systems_Final/blob/main/Screenshot%202024-12-09%20193312.png)
+<br>
+***
+The main portion that we will be focusing on for this popup will be the "Format:" tab. Clicking on this will provide us with a list of different format's our audio file can be turned into. <br>
+For a detailed look into the different main audio codecs, you can look at this website: [Audio Codec Exploration](https://sites.google.com/view/digitalsystemmidterm/home)<br>
+Other than the format tab, we can also look at the Sample Rate tab and the Quality tab. Lowering the Sample rate essentially lowers the capacity at which the audio is captured, meaning that it will not be able to pick up higher frequencies as well, lowering the overall quality. The Quality tab is very similar as it lowers the quality of the sound once changed. The upside to lowering the audio quality is that the file will be much smaller in comparison!<br>
+***
+## Final Step: Export!
+Once you have done all of the previous steps, you can now hit export and your audio file will download automatically to your computer! Once this is complete, the tutorial will have served its purpose!
