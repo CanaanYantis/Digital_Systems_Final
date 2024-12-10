@@ -9,3 +9,8 @@ This tutorial is for anyone and requires no prior knowledge of computers. All th
 <br>
 <br>
 ![MainImage](https://c8.alamy.com/comp/2GPN927/audio-file-formats-set-of-linear-icons-of-different-audio-formats-audio-file-icons-vector-illustration-2GPN927.jpg)
+<br>
+***
+Tutorial Stages:<br>
+Stage 1: [How To Download Audacity](https://github.com/CanaanYantis/Digital_Systems_Final/blob/main/Downloading_Audacity.md)<br>
+Stage 2:
