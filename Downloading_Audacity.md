@@ -17,4 +17,4 @@ To download Audacity, visit the appropriate link provided below and click on the
 Once that download is complete you should click to open it and it will prompt an application called MuseHub to open. This is perfectly normal!<br>
 Once MuseHub is downloaded and opened, you should search up Audacity inside the application and promptly download the application. <br>
 Once this step is complete... Congratulations! You have officially downloaded Audacity!
-![MuseHub Screenshot](<img width="821" alt="MuseHub" src="https://github.com/user-attachments/assets/c7cb0823-a4e6-42d0-b4e4-b4ac810948cd">)
+
