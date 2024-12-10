@@ -13,4 +13,5 @@ This tutorial is for anyone and requires no prior knowledge of computers. All th
 ***
 Tutorial Stages:<br>
 Stage 1: [How To Download Audacity](https://github.com/CanaanYantis/Digital_Systems_Final/blob/main/Downloading_Audacity.md)<br>
-Stage 2:
+Stage 2: [How To Download an Audio File off of YouTube](https://github.com/CanaanYantis/Digital_Systems_Final/blob/main/Downloading_Audio_File.md)
+Stage 3: []()
