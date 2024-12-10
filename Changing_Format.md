@@ -24,3 +24,5 @@ Other than the format tab, we can also look at the Sample Rate tab and the Quali
 ***
 ## Final Step: Export!
 Once you have done all of the previous steps, you can now hit export and your audio file will download automatically to your computer! Once this is complete, the tutorial will have served its purpose!
+<br>
+[Back To Main](https://github.com/CanaanYantis/Digital_Systems_Final/blob/main/README.md)
